@@ -15,7 +15,7 @@
         O app recolhe os dados do cliente e do respectivo aparelho que o cliente deixou para orçamento.
     </a>
     <a>
-        Os atributos para o cliente são: id, nome, telefone e endereço. Todos os atrbutos são obrigatórios.
+        Os atributos para o cliente são: id, nome, telefone e endereço. Todos os atributos são obrigatórios.
     </a>    
     <a>
         Já para o aparelho os atributos são: nome, marca, sintomas, obs, diagnóstico, orçamento, data de entrada e data de saída. Os atributos nome, marca, sintomas e data de entrada são obrigatórios.
