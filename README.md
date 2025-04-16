@@ -11,71 +11,20 @@
 
 <p>
     Aplicação back end para gerenciamento de dados de clientes e equipamentos eletrônicos para dar reparo.
-    <a>
-        O app recolhe os dados do cliente e do respectivo aparelho que o cliente deixou para orçamento.
-    </a>
-    <a>
-        Os atributos para o cliente são: id, nome, telefone e endereço. Todos os atributos são obrigatórios.
-    </a>    
-    <a>
-        Já para o aparelho os atributos são: nome, marca, sintomas, obs, diagnóstico, orçamento, data de entrada e data de saída. Os atributos nome, marca, sintomas e data de entrada são obrigatórios.
-    </a>
 </p>
 
-<p>Relacionamento entre entidades usado foi o OneToMany.</p>
+<h2>Como testar ?</h2>
 
-<h2>Testes:</h2>
+<ul>
+    <li>Baixe os arquivos inserindo esse código via terminal "git clone https://github.com/Augphp16/af-eletronica.git"</li>
+    <li>Certifique-se de ter o JDK23 e o MySQL Server instalados.</li>
+    <li>Caso o JDK instalado em sua máquina não seja o 23, altere a versão no arquivo pom.xml</li>
+    <li>Insira o username e password que você criou ao instalar o MySQL Server no arquivo application.properties </li>
+    <li>Crie uma base de dados chamada "af_eletronica" no seu banco de dados via terminal ou workbench</li>
+    <li>Inicie o servidor pelo arquivo AfEletronicaApplication.java pressionando o run</li>
+    <li>Em seu navegador digite a seguinte URL: http://localhost:8080/swagger-ui.html</li>
 
-<hr>
-
-<p>
-    <h4>Cadastrando aparelho</h4>
-    <img src="./src/main/resources/static/img/Captura de Tela (4).png">
-</p>
-
-<hr>
-
-<p>
-    <h4>Validação dos dados do aparelho</h4>
-    <img src="./src/main/resources/static/img/Captura de Tela (3).png">
-</p>
-
-<hr>
-
-<p>
-    <h4>Listando aparelhos cadastrados</h4>
-    <img src="./src/main/resources/static/img/Captura de Tela (5).png">
-</p>
-
-<hr>
-
-<p>
-    <h4>Cadastrando clientes</h4>
-    <img src="./src/main/resources/static/img/Captura de Tela (7).png">
-</p>
-
-<hr>
-
-<p>
-    <h4>Validação dos dados do cliente</h4>
-    <img src="./src/main/resources/static/img/Captura de Tela (6).png">
-</p>
-
-<hr>
-
-<p>
-    <h4>Listando clientes e seus aparelhos</h4>
-    <img src="./src/main/resources/static/img/Captura de Tela (8).png">
-</p>
-
-<hr>
-
-<p>
-    <h4>Atualização do status de serviço do aparelho</h4>
-    <img src="./src/main/resources/static/img/Captura de Tela (9).png">
-</p>
-
-<hr>
+</ul>
 
 <h2>Observações</h2>
 
