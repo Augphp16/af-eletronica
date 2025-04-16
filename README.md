@@ -23,3 +23,16 @@
 </p>
 
 <p>Relacionamento entre entidades usado foi o OneToMany.</p>
+
+<h2>Testes:</h2>
+
+<p>
+    <a>Cadastrando aparelho</a>
+    <img src="./src/main/resources/static/img/Captura de Tela (4).png">
+</p>
+
+<p>
+    <a>Validação dos dados do aparelho</a>
+    <img src="./src/main/resources/static/img/Captura de Tela (3).png">
+</p>
+
