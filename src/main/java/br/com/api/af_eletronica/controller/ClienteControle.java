@@ -9,9 +9,7 @@ import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import br.com.api.af_eletronica.models.Aparelho;
 import br.com.api.af_eletronica.models.Cliente;
-import br.com.api.af_eletronica.models.RespostaAparelho;
 import br.com.api.af_eletronica.models.RespostaCliente;
 import br.com.api.af_eletronica.services.ClienteServico;
 import io.swagger.v3.oas.annotations.Operation;
