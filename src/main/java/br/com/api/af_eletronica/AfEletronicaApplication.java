@@ -13,7 +13,7 @@ import io.swagger.v3.oas.annotations.info.Info;
 		title = "AF-Eletronica",
 		version = "1.0",
 		description = "API para gerenciamento de dados de uma assistência técnica de dispositivos eletrônicos.",
-		contact = @Contact(name = "Augusto", email = "ferreiraaugusto62@gmail.com", url = "https://github.com/Augphp16/af-eletronica")
+		contact = @Contact(name = "Augusto", email = "ferreiraaugusto62@gmail.com", url = "https://github.com/Augphp16")
 	)
 )
 
