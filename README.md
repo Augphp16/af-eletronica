@@ -79,7 +79,7 @@
 
 <h2>Observações</h2>
 
-<p>A aplicação não tem a função de remover dados de clientes nem dos aparelhos, para poder ter a base de dados intacta para possíveis questões jurídicas</p>
+<p>A aplicação não tem a função de remover dados de clientes nem dos aparelhos para manter a base de dados intacta para possíveis defesas jurídicas.</p>
 
 
 
