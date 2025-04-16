@@ -27,12 +27,39 @@
 <h2>Testes:</h2>
 
 <p>
-    <a>Cadastrando aparelho</a>
+    <h4>Cadastrando aparelho</h4>
     <img src="./src/main/resources/static/img/Captura de Tela (4).png">
 </p>
 
 <p>
-    <a>Validação dos dados do aparelho</a>
+    <h4>Validação dos dados do aparelho</h4>
     <img src="./src/main/resources/static/img/Captura de Tela (3).png">
 </p>
+
+<p>
+    <h4>Listando aparelhos cadastrados</h4>
+    <img src="./src/main/resources/static/img/Captura de Tela (5).png">
+</p>
+
+<p>
+    <h4>Cadastrando clientes</h4>
+    <img src="./src/main/resources/static/img/Captura de Tela (6).png">
+</p>
+
+<p>
+    <h4>Validação dos dados do cliente</h4>
+    <img src="./src/main/resources/static/img/Captura de Tela (7).png">
+</p>
+
+<p>
+    <h4>Listando clientes e seus aparelhos</h4>
+    <img src="./src/main/resources/static/img/Captura de Tela (8).png">
+</p>
+
+<p>
+    <h4>Atualização do status de serviço do aparelho</h4>
+    <img src="./src/main/resources/static/img/Captura de Tela (9).png">
+</p>
+
+
 
